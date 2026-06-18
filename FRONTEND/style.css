@@ -1,5 +1,7 @@
 body{
-    background-color:beige;
+    background-image: url("bg.jpg");
+    /*background:linear-gradient(orange,white);
+    background-repeat: no-repeat;*/
     border-style: double;
     border-width: 3px;
     padding: 5px;
