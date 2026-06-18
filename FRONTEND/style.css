@@ -1,0 +1,20 @@
+body{
+    background-color:beige;
+    border-style: double;
+    border-width: 3px;
+    padding: 5px;
+}
+h1{
+    color:crimson;
+    font-family:arial;
+    font-style: oblique;
+}
+h2{
+    color:rgb(108, 42, 165);
+}
+#p1{
+    font-size: 18px;
+}
+.det{
+    font-size: 18px;
+}
