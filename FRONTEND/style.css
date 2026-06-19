@@ -43,10 +43,10 @@ h2{
     font-size: 18px;
     color: white;
 }
-section{
+/* section{
     min height: 100vh;
     padding:5rem 9%5rem;
-}
+} */
 .abt{
     display: flex;
     justify-content: center;
